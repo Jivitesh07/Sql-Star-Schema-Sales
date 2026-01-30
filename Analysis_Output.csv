@@ -1,0 +1,24 @@
+1?? Region-wise Sales,,
+,,
+Region,Total Sales,
+West,80000,
+South,40500,
+East,25400,
+North,3400,
+,,
+2?? Monthly Sales Trend,,
+,,
+Year,Month,Monthly Sales
+2023,1,24700
+2023,2,83500
+2023,3,29100
+,,
+3?? Top Customers by Sales,,
+,,
+Customer Name,Total Sales,
+Karan Patel,65000,
+Amit Sharma,40500,
+Rahul Mehta,15000,
+Priya Singh,12500,
+Neha Verma,3400,
+Rohit Gupta,900,
